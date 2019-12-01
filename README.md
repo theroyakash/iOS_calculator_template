@@ -1,9 +1,13 @@
 # Calculator Layout Template
 
-This Xcode project gives you a Calculator Layout. Auto layout and other factor has been considered.
+This Xcode project provides you with a Native Catalyst Calculator App Layout. Auto layout and other factor has been considered.
 
-Just clone this repo to get started.
-This xcode project is designed to go with iPhone, iPads & Macs.
+This app works with
+[] Mac (macOS 10.15 or later)
+[] iPhone (iOS 13 or later)
+[] iPad (iPadOS 13 or Later)
+
+Just clone this repo to get started. This xcode project is designed to go with iPhone, iPads & Macs.
 ## Mac Design
 ![mac app](Documentation/mac%20design.png)
 
