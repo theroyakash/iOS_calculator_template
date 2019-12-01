@@ -11,5 +11,5 @@ Just clone this repo to get started. This xcode project is designed to go with i
 ## Mac Design
 ![mac app](Documentation/mac%20design.png)
 
-## Mac resized window
+## Mac resized window design (Auto Layout in play)
 ![mac resized window](Documentation/mac%20resize%20window.png)
